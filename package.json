@@ -1,0 +1,28 @@
+{
+  "name": "lang-loader",
+  "version": "0.0.1",
+  "description": "Webpack lang.json loader for different languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiShiSangZi/lang-loader.git"
+  },
+  "keywords": [
+    "Loader"
+  ],
+  "engines": {
+    "node": ">=6"
+  },
+  "author": "gogocrow <jane19861227@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiShiSangZi/lang-loader/issues"
+  },
+  "homepage": "https://github.com/LiShiSangZi/lang-loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.16"
+  }
+}
