@@ -1,6 +1,6 @@
 {
   "name": "lang-loader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Webpack lang.json loader for different languages.",
   "main": "index.js",
   "scripts": {
